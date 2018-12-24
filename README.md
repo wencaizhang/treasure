@@ -1,8 +1,4 @@
-<style>
-body {
-  letter-spacing: 3px;
-}
-</style>
+
 # 互联网时代前端"手工艺人"的[百宝箱](http://baike.baidu.com/view/123101.htm)
 武林高手都有几件称手的兵器, 更别提手中无剑, 心中也无剑的世外高人了.
 
